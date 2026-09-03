@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:50:00.532798+00:00",
+  "generated_at": "2026-09-03T14:34:13.614412+00:00",
   "current_period": "2026-08-24:2026-08-30",
   "presets": {
     "7": {
@@ -63,7 +63,13 @@
       },
       "weekly_series": {
         "active_users": [
-          51
+          7,
+          9,
+          2,
+          8,
+          11,
+          8,
+          7
         ]
       },
       "sessions_by_source": {
@@ -79,10 +85,6 @@
         {
           "text": "El CTR bajó mientras que el CPC aumentó.",
           "kind": "alert"
-        },
-        {
-          "text": "Esta semana se registró el mayor volumen de tráfico del período seleccionado.",
-          "kind": "observation"
         }
       ],
       "daily_series": [
@@ -724,7 +726,13 @@
       },
       "weekly_series": {
         "active_users": [
-          51
+          7,
+          9,
+          2,
+          8,
+          11,
+          8,
+          7
         ]
       },
       "sessions_by_source": {
@@ -740,10 +748,6 @@
         {
           "text": "El CTR bajó mientras que el CPC aumentó.",
           "kind": "alert"
-        },
-        {
-          "text": "Esta semana se registró el mayor volumen de tráfico del período seleccionado.",
-          "kind": "observation"
         }
       ],
       "daily_series": [
