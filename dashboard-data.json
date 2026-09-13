@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:32:46.173302+00:00",
+  "generated_at": "2026-09-13T19:54:25.849977+00:00",
   "current_period": "2026-08-31:2026-09-06",
   "presets": {
     "7": {
@@ -164,8 +164,8 @@
         "to": "2026-09-06"
       },
       "consultations": {
-        "total": 0,
-        "free_trial": 0,
+        "total": 5,
+        "free_trial": 5,
         "subscription": 0,
         "without_email": 0
       }
@@ -379,8 +379,8 @@
         "to": "2026-09-06"
       },
       "consultations": {
-        "total": 0,
-        "free_trial": 0,
+        "total": 5,
+        "free_trial": 5,
         "subscription": 0,
         "without_email": 0
       }
@@ -679,8 +679,8 @@
         "to": "2026-09-06"
       },
       "consultations": {
-        "total": 1,
-        "free_trial": 1,
+        "total": 6,
+        "free_trial": 6,
         "subscription": 0,
         "without_email": 0
       }
@@ -849,8 +849,8 @@
         "to": "2026-09-06"
       },
       "consultations": {
-        "total": 0,
-        "free_trial": 0,
+        "total": 5,
+        "free_trial": 5,
         "subscription": 0,
         "without_email": 0
       }
@@ -1064,8 +1064,8 @@
         "to": "2026-09-06"
       },
       "consultations": {
-        "total": 0,
-        "free_trial": 0,
+        "total": 5,
+        "free_trial": 5,
         "subscription": 0,
         "without_email": 0
       }
@@ -1364,8 +1364,8 @@
         "to": "2026-09-06"
       },
       "consultations": {
-        "total": 1,
-        "free_trial": 1,
+        "total": 6,
+        "free_trial": 6,
         "subscription": 0,
         "without_email": 0
       }
