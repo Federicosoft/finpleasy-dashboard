@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:46:11.363924+00:00",
+  "generated_at": "2026-10-05T19:21:48.947244+00:00",
   "current_period": "2026-09-05:2026-10-04",
   "presets": {
     "7": {
@@ -142,6 +142,12 @@
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
           "views": 8,
+          "active_users": 1
+        },
+        {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 6,
           "active_users": 1
         },
         {
@@ -358,6 +364,12 @@
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
           "views": 11,
+          "active_users": 1
+        },
+        {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 6,
           "active_users": 1
         },
         {
@@ -666,6 +678,12 @@
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
           "views": 25,
           "active_users": 3
+        },
+        {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 6,
+          "active_users": 1
         },
         {
           "name": "E-commerce",
@@ -977,6 +995,12 @@
           "active_users": 3
         },
         {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 6,
+          "active_users": 1
+        },
+        {
           "name": "E-commerce",
           "path": "/challenge-page/venta-online-para-pymes",
           "views": 17,
@@ -1146,6 +1170,12 @@
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
           "views": 8,
+          "active_users": 1
+        },
+        {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 6,
           "active_users": 1
         },
         {
@@ -1362,6 +1392,12 @@
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
           "views": 11,
+          "active_users": 1
+        },
+        {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 6,
           "active_users": 1
         },
         {
