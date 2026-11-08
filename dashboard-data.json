@@ -1,480 +1,512 @@
 {
-  "generated_at": "2026-10-13T20:08:26.212022+00:00",
-  "current_period": "2026-10-05:2026-10-11",
+  "generated_at": "2026-11-08T22:47:16.043418+00:00",
+  "current_period": "2026-10-26:2026-11-01",
   "presets": {
     "7": {
       "kpis": {
         "impressions": {
-          "current": 5485,
-          "previous": 2010,
-          "abs_change": 3475,
-          "pct_change": 172.89,
-          "trend": "up"
-        },
-        "clicks": {
-          "current": 60,
-          "previous": 31,
-          "abs_change": 29,
-          "pct_change": 93.55,
-          "trend": "up"
-        },
-        "cost": {
-          "current": 13476.2,
-          "previous": 7343.95,
-          "abs_change": 6132.25,
-          "pct_change": 83.5,
-          "trend": "up"
-        },
-        "avg_cpc": {
-          "current": 224.6,
-          "previous": 236.9,
-          "abs_change": -12.3,
-          "pct_change": -5.19,
+          "current": 2312,
+          "previous": 3460,
+          "abs_change": -1148,
+          "pct_change": -33.18,
           "trend": "down"
         },
+        "clicks": {
+          "current": 17,
+          "previous": 35,
+          "abs_change": -18,
+          "pct_change": -51.43,
+          "trend": "down"
+        },
+        "cost": {
+          "current": 9125.69,
+          "previous": 11545.22,
+          "abs_change": -2419.53,
+          "pct_change": -20.96,
+          "trend": "down"
+        },
+        "avg_cpc": {
+          "current": 536.81,
+          "previous": 329.86,
+          "abs_change": 206.95,
+          "pct_change": 62.74,
+          "trend": "up"
+        },
         "ctr": {
-          "current": 1.09,
-          "previous": 1.54,
-          "abs_change": -0.45,
-          "pct_change": -29.22,
+          "current": 0.74,
+          "previous": 1.01,
+          "abs_change": -0.27,
+          "pct_change": -26.73,
           "trend": "down"
         },
         "views": {
-          "current": 368,
-          "previous": 467,
-          "abs_change": -99,
-          "pct_change": -21.2,
-          "trend": "down"
-        },
-        "active_users": {
-          "current": 95,
-          "previous": 66,
-          "abs_change": 29,
-          "pct_change": 43.94,
+          "current": 395,
+          "previous": 201,
+          "abs_change": 194,
+          "pct_change": 96.52,
           "trend": "up"
         },
+        "active_users": {
+          "current": 53,
+          "previous": 61,
+          "abs_change": -8,
+          "pct_change": -13.11,
+          "trend": "down"
+        },
         "sessions": {
-          "current": 130,
-          "previous": 77,
-          "abs_change": 53,
-          "pct_change": 68.83,
+          "current": 79,
+          "previous": 73,
+          "abs_change": 6,
+          "pct_change": 8.22,
           "trend": "up"
         }
       },
       "weekly_series": {
         "active_users": [
-          95
+          9,
+          12,
+          12,
+          10,
+          6,
+          6,
+          7
         ]
       },
       "sessions_by_source": {
-        "Paid Search": 61,
-        "Direct": 41,
-        "Organic Search": 17,
-        "Referral": 9,
-        "Organic Social": 1,
-        "Unassigned": 1
+        "Direct": 36,
+        "Paid Search": 17,
+        "Unassigned": 13,
+        "Organic Search": 6,
+        "AI Assistant": 3,
+        "Referral": 3,
+        "Cross-network": 1
       },
       "device_breakdown": {
-        "desktop": 59.5,
-        "mobile": 40.5
+        "desktop": 83.5,
+        "mobile": 15.2,
+        "tablet": 1.3
       },
       "insights": [
         {
-          "text": "Esta semana se registró el mayor volumen de tráfico del período seleccionado.",
-          "kind": "observation"
+          "text": "El CTR bajó mientras que el CPC aumentó.",
+          "kind": "alert"
         }
       ],
       "daily_series": [
         {
-          "date": "20261005",
-          "activeUsers": 12,
-          "sessions": 14
-        },
-        {
-          "date": "20261006",
-          "activeUsers": 22,
-          "sessions": 31
-        },
-        {
-          "date": "20261007",
-          "activeUsers": 15,
-          "sessions": 19
-        },
-        {
-          "date": "20261008",
-          "activeUsers": 15,
-          "sessions": 20
-        },
-        {
-          "date": "20261009",
-          "activeUsers": 11,
+          "date": "20261026",
+          "activeUsers": 9,
           "sessions": 12
         },
         {
-          "date": "20261010",
-          "activeUsers": 19,
-          "sessions": 25
+          "date": "20261027",
+          "activeUsers": 12,
+          "sessions": 20
         },
         {
-          "date": "20261011",
+          "date": "20261028",
+          "activeUsers": 12,
+          "sessions": 16
+        },
+        {
+          "date": "20261029",
           "activeUsers": 10,
-          "sessions": 10
+          "sessions": 13
+        },
+        {
+          "date": "20261030",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261031",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261101",
+          "activeUsers": 7,
+          "sessions": 7
         }
       ],
       "course_performance": [
         {
           "name": "Marketing Digital",
           "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
-          "views": 47,
-          "active_users": 28
+          "views": 19,
+          "active_users": 7
         },
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 22,
-          "active_users": 13
+          "views": 19,
+          "active_users": 5
         },
         {
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
-          "views": 4,
-          "active_users": 2
+          "views": 10,
+          "active_users": 1
         },
         {
           "name": "Power BI",
           "path": "/challenge-page/power-bi-en-tu-negocio",
-          "views": 2,
-          "active_users": 2
+          "views": 5,
+          "active_users": 1
         },
         {
           "name": "E-commerce",
           "path": "/challenge-page/venta-online-para-pymes",
-          "views": 0,
-          "active_users": 0
+          "views": 5,
+          "active_users": 1
         },
         {
           "name": "Eficiencia en costos",
           "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
-          "views": 0,
-          "active_users": 0
+          "views": 4,
+          "active_users": 1
         },
         {
           "name": "Liderazgo",
           "path": "/challenge-page/liderazgo-y-comunicacion",
-          "views": 1,
+          "views": 3,
           "active_users": 1
         }
       ],
       "period": {
-        "from": "2026-10-05",
-        "to": "2026-10-11"
+        "from": "2026-10-26",
+        "to": "2026-11-01"
       },
       "consultations": {
-        "total": 4,
-        "free_trial": 3,
-        "subscription": 1,
+        "total": 0,
+        "free_trial": 0,
+        "subscription": 0,
         "without_email": 0
+      },
+      "data_quality": {
+        "total_records": 70,
+        "valid_business_records": 9,
+        "excluded_tests": 60,
+        "review_pending": 0,
+        "review_cases": 0,
+        "review_items": [],
+        "unmapped_courses": 1,
+        "missing_program_id": 1,
+        "missing_journey_id": 3,
+        "invalid_timestamp": 1,
+        "confirmed_subscriptions": 0,
+        "confirmed_missing_payment_date": 0,
+        "confirmed_invalid_payment_date": 0,
+        "by_type": {
+          "free_trial": 45,
+          "subscription": 25
+        }
       }
     },
     "14": {
       "kpis": {
         "impressions": {
-          "current": 7495,
-          "previous": 4453,
-          "abs_change": 3042,
-          "pct_change": 68.31,
-          "trend": "up"
-        },
-        "clicks": {
-          "current": 91,
-          "previous": 69,
-          "abs_change": 22,
-          "pct_change": 31.88,
-          "trend": "up"
-        },
-        "cost": {
-          "current": 20820.15,
-          "previous": 20250.82,
-          "abs_change": 569.33,
-          "pct_change": 2.81,
-          "trend": "up"
-        },
-        "avg_cpc": {
-          "current": 228.79,
-          "previous": 293.49,
-          "abs_change": -64.7,
-          "pct_change": -22.05,
+          "current": 5772,
+          "previous": 7788,
+          "abs_change": -2016,
+          "pct_change": -25.89,
           "trend": "down"
         },
+        "clicks": {
+          "current": 52,
+          "previous": 84,
+          "abs_change": -32,
+          "pct_change": -38.1,
+          "trend": "down"
+        },
+        "cost": {
+          "current": 20670.91,
+          "previous": 22379.84,
+          "abs_change": -1708.93,
+          "pct_change": -7.64,
+          "trend": "down"
+        },
+        "avg_cpc": {
+          "current": 397.52,
+          "previous": 266.43,
+          "abs_change": 131.09,
+          "pct_change": 49.2,
+          "trend": "up"
+        },
         "ctr": {
-          "current": 1.21,
-          "previous": 1.55,
-          "abs_change": -0.34,
-          "pct_change": -21.94,
+          "current": 0.9,
+          "previous": 1.08,
+          "abs_change": -0.18,
+          "pct_change": -16.67,
           "trend": "down"
         },
         "views": {
-          "current": 835,
-          "previous": 488,
-          "abs_change": 347,
-          "pct_change": 71.11,
+          "current": 596,
+          "previous": 517,
+          "abs_change": 79,
+          "pct_change": 15.28,
           "trend": "up"
         },
         "active_users": {
-          "current": 160,
-          "previous": 112,
-          "abs_change": 48,
-          "pct_change": 42.86,
-          "trend": "up"
+          "current": 110,
+          "previous": 136,
+          "abs_change": -26,
+          "pct_change": -19.12,
+          "trend": "down"
         },
         "sessions": {
-          "current": 207,
-          "previous": 127,
-          "abs_change": 80,
-          "pct_change": 62.99,
-          "trend": "up"
+          "current": 152,
+          "previous": 189,
+          "abs_change": -37,
+          "pct_change": -19.58,
+          "trend": "down"
         }
       },
       "weekly_series": {
         "active_users": [
-          9,
           10,
-          15,
+          1,
+          9,
+          11,
+          7,
+          20,
+          6,
           9,
           12,
-          7,
-          8,
           12,
-          22,
-          15,
-          15,
-          11,
-          19,
-          10
+          10,
+          6,
+          6,
+          7
         ]
       },
       "sessions_by_source": {
-        "Paid Search": 94,
-        "Direct": 73,
-        "Organic Search": 19,
-        "Unassigned": 11,
-        "Referral": 9,
-        "Organic Social": 1
+        "Direct": 63,
+        "Paid Search": 52,
+        "Unassigned": 20,
+        "Organic Search": 10,
+        "AI Assistant": 3,
+        "Referral": 3,
+        "Cross-network": 1
       },
       "device_breakdown": {
-        "desktop": 59.3,
-        "mobile": 40.7
+        "desktop": 75.0,
+        "mobile": 24.3,
+        "tablet": 0.7
       },
-      "insights": [],
+      "insights": [
+        {
+          "text": "El CTR bajó mientras que el CPC aumentó.",
+          "kind": "alert"
+        }
+      ],
       "daily_series": [
         {
-          "date": "20260928",
-          "activeUsers": 9,
-          "sessions": 9
-        },
-        {
-          "date": "20260929",
-          "activeUsers": 10,
-          "sessions": 12
-        },
-        {
-          "date": "20260930",
-          "activeUsers": 15,
-          "sessions": 20
-        },
-        {
-          "date": "20261001",
-          "activeUsers": 9,
-          "sessions": 9
-        },
-        {
-          "date": "20261002",
-          "activeUsers": 12,
-          "sessions": 12
-        },
-        {
-          "date": "20261003",
-          "activeUsers": 7,
-          "sessions": 7
-        },
-        {
-          "date": "20261004",
-          "activeUsers": 8,
-          "sessions": 8
-        },
-        {
-          "date": "20261005",
-          "activeUsers": 12,
-          "sessions": 14
-        },
-        {
-          "date": "20261006",
-          "activeUsers": 22,
-          "sessions": 31
-        },
-        {
-          "date": "20261007",
-          "activeUsers": 15,
-          "sessions": 19
-        },
-        {
-          "date": "20261008",
-          "activeUsers": 15,
-          "sessions": 20
-        },
-        {
-          "date": "20261009",
-          "activeUsers": 11,
-          "sessions": 12
-        },
-        {
-          "date": "20261010",
-          "activeUsers": 19,
-          "sessions": 25
-        },
-        {
-          "date": "20261011",
+          "date": "20261019",
           "activeUsers": 10,
           "sessions": 10
+        },
+        {
+          "date": "20261020",
+          "activeUsers": 1,
+          "sessions": 1
+        },
+        {
+          "date": "20261021",
+          "activeUsers": 9,
+          "sessions": 15
+        },
+        {
+          "date": "20261022",
+          "activeUsers": 11,
+          "sessions": 11
+        },
+        {
+          "date": "20261023",
+          "activeUsers": 7,
+          "sessions": 10
+        },
+        {
+          "date": "20261024",
+          "activeUsers": 20,
+          "sessions": 20
+        },
+        {
+          "date": "20261025",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261026",
+          "activeUsers": 9,
+          "sessions": 12
+        },
+        {
+          "date": "20261027",
+          "activeUsers": 12,
+          "sessions": 20
+        },
+        {
+          "date": "20261028",
+          "activeUsers": 12,
+          "sessions": 16
+        },
+        {
+          "date": "20261029",
+          "activeUsers": 10,
+          "sessions": 13
+        },
+        {
+          "date": "20261030",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261031",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261101",
+          "activeUsers": 7,
+          "sessions": 7
         }
       ],
       "course_performance": [
         {
           "name": "Marketing Digital",
           "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
-          "views": 108,
-          "active_users": 44
+          "views": 29,
+          "active_users": 16
         },
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 43,
-          "active_users": 17
+          "views": 37,
+          "active_users": 11
         },
         {
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
-          "views": 12,
-          "active_users": 2
+          "views": 14,
+          "active_users": 5
         },
         {
           "name": "Power BI",
           "path": "/challenge-page/power-bi-en-tu-negocio",
-          "views": 8,
-          "active_users": 2
+          "views": 7,
+          "active_users": 3
         },
         {
           "name": "E-commerce",
           "path": "/challenge-page/venta-online-para-pymes",
-          "views": 4,
-          "active_users": 1
+          "views": 6,
+          "active_users": 2
         },
         {
           "name": "Eficiencia en costos",
           "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
           "views": 4,
-          "active_users": 2
+          "active_users": 1
         },
         {
           "name": "Liderazgo",
           "path": "/challenge-page/liderazgo-y-comunicacion",
-          "views": 6,
-          "active_users": 3
+          "views": 3,
+          "active_users": 1
         }
       ],
       "period": {
-        "from": "2026-09-28",
-        "to": "2026-10-11"
+        "from": "2026-10-19",
+        "to": "2026-11-01"
       },
       "consultations": {
-        "total": 4,
-        "free_trial": 3,
-        "subscription": 1,
+        "total": 1,
+        "free_trial": 1,
+        "subscription": 0,
         "without_email": 0
+      },
+      "data_quality": {
+        "total_records": 70,
+        "valid_business_records": 9,
+        "excluded_tests": 60,
+        "review_pending": 0,
+        "review_cases": 0,
+        "review_items": [],
+        "unmapped_courses": 1,
+        "missing_program_id": 1,
+        "missing_journey_id": 3,
+        "invalid_timestamp": 1,
+        "confirmed_subscriptions": 0,
+        "confirmed_missing_payment_date": 0,
+        "confirmed_invalid_payment_date": 0,
+        "by_type": {
+          "free_trial": 45,
+          "subscription": 25
+        }
       }
     },
     "30": {
       "kpis": {
         "impressions": {
-          "current": 12180,
-          "previous": 15407,
-          "abs_change": -3227,
-          "pct_change": -20.95,
-          "trend": "down"
+          "current": 14243,
+          "previous": 8388,
+          "abs_change": 5855,
+          "pct_change": 69.8,
+          "trend": "up"
         },
         "clicks": {
-          "current": 160,
-          "previous": 214,
-          "abs_change": -54,
-          "pct_change": -25.23,
+          "current": 144,
+          "previous": 150,
+          "abs_change": -6,
+          "pct_change": -4.0,
           "trend": "down"
         },
         "cost": {
-          "current": 41070.97,
-          "previous": 47711.71,
-          "abs_change": -6640.74,
-          "pct_change": -13.92,
-          "trend": "down"
+          "current": 44191.95,
+          "previous": 40820.34,
+          "abs_change": 3371.61,
+          "pct_change": 8.26,
+          "trend": "up"
         },
         "avg_cpc": {
-          "current": 256.69,
-          "previous": 222.95,
-          "abs_change": 33.74,
-          "pct_change": 15.13,
+          "current": 306.89,
+          "previous": 272.14,
+          "abs_change": 34.75,
+          "pct_change": 12.77,
           "trend": "up"
         },
         "ctr": {
-          "current": 1.31,
-          "previous": 1.39,
-          "abs_change": -0.08,
-          "pct_change": -5.76,
+          "current": 1.01,
+          "previous": 1.79,
+          "abs_change": -0.78,
+          "pct_change": -43.58,
           "trend": "down"
         },
         "views": {
-          "current": 1363,
-          "previous": 625,
-          "abs_change": 738,
-          "pct_change": 118.08,
+          "current": 1165,
+          "previous": 1019,
+          "abs_change": 146,
+          "pct_change": 14.33,
           "trend": "up"
         },
         "active_users": {
-          "current": 270,
-          "previous": 241,
-          "abs_change": 29,
-          "pct_change": 12.03,
+          "current": 256,
+          "previous": 222,
+          "abs_change": 34,
+          "pct_change": 15.32,
           "trend": "up"
         },
         "sessions": {
-          "current": 339,
-          "previous": 271,
-          "abs_change": 68,
-          "pct_change": 25.09,
+          "current": 356,
+          "previous": 260,
+          "abs_change": 96,
+          "pct_change": 36.92,
           "trend": "up"
         }
       },
       "weekly_series": {
         "active_users": [
-          1,
-          2,
-          6,
-          7,
-          15,
-          3,
-          6,
-          13,
-          14,
-          10,
-          7,
-          9,
-          6,
-          5,
-          10,
-          11,
-          9,
-          10,
-          15,
-          9,
-          12,
           7,
           8,
           12,
@@ -483,21 +515,44 @@
           15,
           11,
           19,
-          10
+          10,
+          6,
+          11,
+          10,
+          3,
+          4,
+          4,
+          8,
+          10,
+          1,
+          9,
+          11,
+          7,
+          20,
+          6,
+          9,
+          12,
+          12,
+          10,
+          6,
+          6,
+          7
         ]
       },
       "sessions_by_source": {
-        "Paid Search": 156,
-        "Direct": 123,
-        "Unassigned": 23,
-        "Organic Search": 19,
-        "Referral": 15,
-        "Cross-network": 2,
+        "Paid Search": 145,
+        "Direct": 132,
+        "Organic Search": 29,
+        "Unassigned": 26,
+        "Referral": 19,
+        "AI Assistant": 3,
+        "Cross-network": 1,
         "Organic Social": 1
       },
       "device_breakdown": {
-        "desktop": 57.6,
-        "mobile": 42.4
+        "desktop": 66.7,
+        "mobile": 33.1,
+        "tablet": 0.3
       },
       "insights": [
         {
@@ -507,709 +562,315 @@
       ],
       "daily_series": [
         {
-          "date": "20260912",
-          "activeUsers": 1,
-          "sessions": 2
-        },
-        {
-          "date": "20260913",
-          "activeUsers": 2,
-          "sessions": 3
-        },
-        {
-          "date": "20260914",
-          "activeUsers": 6,
-          "sessions": 6
-        },
-        {
-          "date": "20260915",
+          "date": "20261003",
           "activeUsers": 7,
           "sessions": 7
         },
         {
-          "date": "20260916",
+          "date": "20261004",
+          "activeUsers": 8,
+          "sessions": 8
+        },
+        {
+          "date": "20261005",
+          "activeUsers": 12,
+          "sessions": 14
+        },
+        {
+          "date": "20261006",
+          "activeUsers": 22,
+          "sessions": 31
+        },
+        {
+          "date": "20261007",
           "activeUsers": 15,
+          "sessions": 19
+        },
+        {
+          "date": "20261008",
+          "activeUsers": 15,
+          "sessions": 20
+        },
+        {
+          "date": "20261009",
+          "activeUsers": 11,
+          "sessions": 12
+        },
+        {
+          "date": "20261010",
+          "activeUsers": 19,
+          "sessions": 25
+        },
+        {
+          "date": "20261011",
+          "activeUsers": 10,
+          "sessions": 10
+        },
+        {
+          "date": "20261012",
+          "activeUsers": 6,
+          "sessions": 7
+        },
+        {
+          "date": "20261013",
+          "activeUsers": 11,
           "sessions": 15
         },
         {
-          "date": "20260917",
+          "date": "20261014",
+          "activeUsers": 10,
+          "sessions": 10
+        },
+        {
+          "date": "20261015",
           "activeUsers": 3,
           "sessions": 3
         },
         {
-          "date": "20260918",
-          "activeUsers": 6,
-          "sessions": 6
+          "date": "20261016",
+          "activeUsers": 4,
+          "sessions": 4
         },
         {
-          "date": "20260919",
-          "activeUsers": 13,
-          "sessions": 13
+          "date": "20261017",
+          "activeUsers": 4,
+          "sessions": 5
         },
         {
-          "date": "20260920",
-          "activeUsers": 14,
-          "sessions": 16
+          "date": "20261018",
+          "activeUsers": 8,
+          "sessions": 15
         },
         {
-          "date": "20260921",
+          "date": "20261019",
           "activeUsers": 10,
           "sessions": 10
         },
         {
-          "date": "20260922",
-          "activeUsers": 7,
-          "sessions": 10
+          "date": "20261020",
+          "activeUsers": 1,
+          "sessions": 1
         },
         {
-          "date": "20260923",
+          "date": "20261021",
           "activeUsers": 9,
-          "sessions": 9
+          "sessions": 15
         },
         {
-          "date": "20260924",
-          "activeUsers": 6,
-          "sessions": 6
-        },
-        {
-          "date": "20260925",
-          "activeUsers": 5,
-          "sessions": 7
-        },
-        {
-          "date": "20260926",
-          "activeUsers": 10,
-          "sessions": 10
-        },
-        {
-          "date": "20260927",
+          "date": "20261022",
           "activeUsers": 11,
           "sessions": 11
         },
         {
-          "date": "20260928",
-          "activeUsers": 9,
-          "sessions": 9
+          "date": "20261023",
+          "activeUsers": 7,
+          "sessions": 10
         },
         {
-          "date": "20260929",
-          "activeUsers": 10,
-          "sessions": 12
-        },
-        {
-          "date": "20260930",
-          "activeUsers": 15,
+          "date": "20261024",
+          "activeUsers": 20,
           "sessions": 20
         },
         {
-          "date": "20261001",
-          "activeUsers": 9,
-          "sessions": 9
+          "date": "20261025",
+          "activeUsers": 6,
+          "sessions": 6
         },
         {
-          "date": "20261002",
-          "activeUsers": 12,
+          "date": "20261026",
+          "activeUsers": 9,
           "sessions": 12
         },
         {
-          "date": "20261003",
+          "date": "20261027",
+          "activeUsers": 12,
+          "sessions": 20
+        },
+        {
+          "date": "20261028",
+          "activeUsers": 12,
+          "sessions": 16
+        },
+        {
+          "date": "20261029",
+          "activeUsers": 10,
+          "sessions": 13
+        },
+        {
+          "date": "20261030",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261031",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261101",
           "activeUsers": 7,
           "sessions": 7
-        },
-        {
-          "date": "20261004",
-          "activeUsers": 8,
-          "sessions": 8
-        },
-        {
-          "date": "20261005",
-          "activeUsers": 12,
-          "sessions": 14
-        },
-        {
-          "date": "20261006",
-          "activeUsers": 22,
-          "sessions": 31
-        },
-        {
-          "date": "20261007",
-          "activeUsers": 15,
-          "sessions": 19
-        },
-        {
-          "date": "20261008",
-          "activeUsers": 15,
-          "sessions": 20
-        },
-        {
-          "date": "20261009",
-          "activeUsers": 11,
-          "sessions": 12
-        },
-        {
-          "date": "20261010",
-          "activeUsers": 19,
-          "sessions": 25
-        },
-        {
-          "date": "20261011",
-          "activeUsers": 10,
-          "sessions": 10
         }
       ],
       "course_performance": [
         {
           "name": "Marketing Digital",
           "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
-          "views": 191,
-          "active_users": 84
+          "views": 100,
+          "active_users": 59
         },
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 66,
-          "active_users": 18
+          "views": 73,
+          "active_users": 33
         },
         {
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
-          "views": 28,
-          "active_users": 3
+          "views": 20,
+          "active_users": 7
         },
         {
           "name": "Power BI",
           "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 10,
+          "active_users": 5
+        },
+        {
+          "name": "E-commerce",
+          "path": "/challenge-page/venta-online-para-pymes",
           "views": 8,
-          "active_users": 2
-        },
-        {
-          "name": "E-commerce",
-          "path": "/challenge-page/venta-online-para-pymes",
-          "views": 17,
-          "active_users": 3
+          "active_users": 4
         },
         {
           "name": "Eficiencia en costos",
           "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
-          "views": 9,
-          "active_users": 2
-        },
-        {
-          "name": "Liderazgo",
-          "path": "/challenge-page/liderazgo-y-comunicacion",
-          "views": 12,
-          "active_users": 3
-        }
-      ],
-      "period": {
-        "from": "2026-09-12",
-        "to": "2026-10-11"
-      },
-      "consultations": {
-        "total": 4,
-        "free_trial": 3,
-        "subscription": 1,
-        "without_email": 0
-      }
-    }
-  },
-  "periods": {
-    "2026-10-05:2026-10-11": {
-      "kpis": {
-        "impressions": {
-          "current": 5485,
-          "previous": 2010,
-          "abs_change": 3475,
-          "pct_change": 172.89,
-          "trend": "up"
-        },
-        "clicks": {
-          "current": 60,
-          "previous": 31,
-          "abs_change": 29,
-          "pct_change": 93.55,
-          "trend": "up"
-        },
-        "cost": {
-          "current": 13476.2,
-          "previous": 7343.95,
-          "abs_change": 6132.25,
-          "pct_change": 83.5,
-          "trend": "up"
-        },
-        "avg_cpc": {
-          "current": 224.6,
-          "previous": 236.9,
-          "abs_change": -12.3,
-          "pct_change": -5.19,
-          "trend": "down"
-        },
-        "ctr": {
-          "current": 1.09,
-          "previous": 1.54,
-          "abs_change": -0.45,
-          "pct_change": -29.22,
-          "trend": "down"
-        },
-        "views": {
-          "current": 368,
-          "previous": 467,
-          "abs_change": -99,
-          "pct_change": -21.2,
-          "trend": "down"
-        },
-        "active_users": {
-          "current": 95,
-          "previous": 66,
-          "abs_change": 29,
-          "pct_change": 43.94,
-          "trend": "up"
-        },
-        "sessions": {
-          "current": 130,
-          "previous": 77,
-          "abs_change": 53,
-          "pct_change": 68.83,
-          "trend": "up"
-        }
-      },
-      "weekly_series": {
-        "active_users": [
-          95
-        ]
-      },
-      "sessions_by_source": {
-        "Paid Search": 61,
-        "Direct": 41,
-        "Organic Search": 17,
-        "Referral": 9,
-        "Organic Social": 1,
-        "Unassigned": 1
-      },
-      "device_breakdown": {
-        "desktop": 59.5,
-        "mobile": 40.5
-      },
-      "insights": [
-        {
-          "text": "Esta semana se registró el mayor volumen de tráfico del período seleccionado.",
-          "kind": "observation"
-        }
-      ],
-      "daily_series": [
-        {
-          "date": "20261005",
-          "activeUsers": 12,
-          "sessions": 14
-        },
-        {
-          "date": "20261006",
-          "activeUsers": 22,
-          "sessions": 31
-        },
-        {
-          "date": "20261007",
-          "activeUsers": 15,
-          "sessions": 19
-        },
-        {
-          "date": "20261008",
-          "activeUsers": 15,
-          "sessions": 20
-        },
-        {
-          "date": "20261009",
-          "activeUsers": 11,
-          "sessions": 12
-        },
-        {
-          "date": "20261010",
-          "activeUsers": 19,
-          "sessions": 25
-        },
-        {
-          "date": "20261011",
-          "activeUsers": 10,
-          "sessions": 10
-        }
-      ],
-      "course_performance": [
-        {
-          "name": "Marketing Digital",
-          "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
-          "views": 47,
-          "active_users": 28
-        },
-        {
-          "name": "Excel Inicial",
-          "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 22,
-          "active_users": 13
-        },
-        {
-          "name": "Excel Avanzado",
-          "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
-          "views": 4,
-          "active_users": 2
-        },
-        {
-          "name": "Power BI",
-          "path": "/challenge-page/power-bi-en-tu-negocio",
-          "views": 2,
-          "active_users": 2
-        },
-        {
-          "name": "E-commerce",
-          "path": "/challenge-page/venta-online-para-pymes",
-          "views": 0,
-          "active_users": 0
-        },
-        {
-          "name": "Eficiencia en costos",
-          "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
-          "views": 0,
-          "active_users": 0
-        },
-        {
-          "name": "Liderazgo",
-          "path": "/challenge-page/liderazgo-y-comunicacion",
-          "views": 1,
-          "active_users": 1
-        }
-      ],
-      "period": {
-        "from": "2026-10-05",
-        "to": "2026-10-11"
-      },
-      "consultations": {
-        "total": 4,
-        "free_trial": 3,
-        "subscription": 1,
-        "without_email": 0
-      }
-    },
-    "2026-09-28:2026-10-11": {
-      "kpis": {
-        "impressions": {
-          "current": 7495,
-          "previous": 4453,
-          "abs_change": 3042,
-          "pct_change": 68.31,
-          "trend": "up"
-        },
-        "clicks": {
-          "current": 91,
-          "previous": 69,
-          "abs_change": 22,
-          "pct_change": 31.88,
-          "trend": "up"
-        },
-        "cost": {
-          "current": 20820.15,
-          "previous": 20250.82,
-          "abs_change": 569.33,
-          "pct_change": 2.81,
-          "trend": "up"
-        },
-        "avg_cpc": {
-          "current": 228.79,
-          "previous": 293.49,
-          "abs_change": -64.7,
-          "pct_change": -22.05,
-          "trend": "down"
-        },
-        "ctr": {
-          "current": 1.21,
-          "previous": 1.55,
-          "abs_change": -0.34,
-          "pct_change": -21.94,
-          "trend": "down"
-        },
-        "views": {
-          "current": 835,
-          "previous": 488,
-          "abs_change": 347,
-          "pct_change": 71.11,
-          "trend": "up"
-        },
-        "active_users": {
-          "current": 160,
-          "previous": 112,
-          "abs_change": 48,
-          "pct_change": 42.86,
-          "trend": "up"
-        },
-        "sessions": {
-          "current": 207,
-          "previous": 127,
-          "abs_change": 80,
-          "pct_change": 62.99,
-          "trend": "up"
-        }
-      },
-      "weekly_series": {
-        "active_users": [
-          9,
-          10,
-          15,
-          9,
-          12,
-          7,
-          8,
-          12,
-          22,
-          15,
-          15,
-          11,
-          19,
-          10
-        ]
-      },
-      "sessions_by_source": {
-        "Paid Search": 94,
-        "Direct": 73,
-        "Organic Search": 19,
-        "Unassigned": 11,
-        "Referral": 9,
-        "Organic Social": 1
-      },
-      "device_breakdown": {
-        "desktop": 59.3,
-        "mobile": 40.7
-      },
-      "insights": [],
-      "daily_series": [
-        {
-          "date": "20260928",
-          "activeUsers": 9,
-          "sessions": 9
-        },
-        {
-          "date": "20260929",
-          "activeUsers": 10,
-          "sessions": 12
-        },
-        {
-          "date": "20260930",
-          "activeUsers": 15,
-          "sessions": 20
-        },
-        {
-          "date": "20261001",
-          "activeUsers": 9,
-          "sessions": 9
-        },
-        {
-          "date": "20261002",
-          "activeUsers": 12,
-          "sessions": 12
-        },
-        {
-          "date": "20261003",
-          "activeUsers": 7,
-          "sessions": 7
-        },
-        {
-          "date": "20261004",
-          "activeUsers": 8,
-          "sessions": 8
-        },
-        {
-          "date": "20261005",
-          "activeUsers": 12,
-          "sessions": 14
-        },
-        {
-          "date": "20261006",
-          "activeUsers": 22,
-          "sessions": 31
-        },
-        {
-          "date": "20261007",
-          "activeUsers": 15,
-          "sessions": 19
-        },
-        {
-          "date": "20261008",
-          "activeUsers": 15,
-          "sessions": 20
-        },
-        {
-          "date": "20261009",
-          "activeUsers": 11,
-          "sessions": 12
-        },
-        {
-          "date": "20261010",
-          "activeUsers": 19,
-          "sessions": 25
-        },
-        {
-          "date": "20261011",
-          "activeUsers": 10,
-          "sessions": 10
-        }
-      ],
-      "course_performance": [
-        {
-          "name": "Marketing Digital",
-          "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
-          "views": 108,
-          "active_users": 44
-        },
-        {
-          "name": "Excel Inicial",
-          "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 43,
-          "active_users": 17
-        },
-        {
-          "name": "Excel Avanzado",
-          "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
-          "views": 12,
-          "active_users": 2
-        },
-        {
-          "name": "Power BI",
-          "path": "/challenge-page/power-bi-en-tu-negocio",
-          "views": 8,
-          "active_users": 2
-        },
-        {
-          "name": "E-commerce",
-          "path": "/challenge-page/venta-online-para-pymes",
-          "views": 4,
-          "active_users": 1
-        },
-        {
-          "name": "Eficiencia en costos",
-          "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
-          "views": 4,
+          "views": 5,
           "active_users": 2
         },
         {
           "name": "Liderazgo",
           "path": "/challenge-page/liderazgo-y-comunicacion",
           "views": 6,
-          "active_users": 3
+          "active_users": 4
         }
       ],
       "period": {
-        "from": "2026-09-28",
-        "to": "2026-10-11"
+        "from": "2026-10-03",
+        "to": "2026-11-01"
       },
       "consultations": {
         "total": 4,
-        "free_trial": 3,
-        "subscription": 1,
+        "free_trial": 4,
+        "subscription": 0,
         "without_email": 0
+      },
+      "data_quality": {
+        "total_records": 70,
+        "valid_business_records": 9,
+        "excluded_tests": 60,
+        "review_pending": 0,
+        "review_cases": 0,
+        "review_items": [],
+        "unmapped_courses": 1,
+        "missing_program_id": 1,
+        "missing_journey_id": 3,
+        "invalid_timestamp": 1,
+        "confirmed_subscriptions": 0,
+        "confirmed_missing_payment_date": 0,
+        "confirmed_invalid_payment_date": 0,
+        "by_type": {
+          "free_trial": 45,
+          "subscription": 25
+        }
       }
-    },
-    "2026-09-12:2026-10-11": {
+    }
+  },
+  "periods": {
+    "2026-10-26:2026-11-01": {
       "kpis": {
         "impressions": {
-          "current": 12180,
-          "previous": 15407,
-          "abs_change": -3227,
-          "pct_change": -20.95,
+          "current": 2312,
+          "previous": 3460,
+          "abs_change": -1148,
+          "pct_change": -33.18,
           "trend": "down"
         },
         "clicks": {
-          "current": 160,
-          "previous": 214,
-          "abs_change": -54,
-          "pct_change": -25.23,
+          "current": 17,
+          "previous": 35,
+          "abs_change": -18,
+          "pct_change": -51.43,
           "trend": "down"
         },
         "cost": {
-          "current": 41070.97,
-          "previous": 47711.71,
-          "abs_change": -6640.74,
-          "pct_change": -13.92,
+          "current": 9125.69,
+          "previous": 11545.22,
+          "abs_change": -2419.53,
+          "pct_change": -20.96,
           "trend": "down"
         },
         "avg_cpc": {
-          "current": 256.69,
-          "previous": 222.95,
-          "abs_change": 33.74,
-          "pct_change": 15.13,
+          "current": 536.81,
+          "previous": 329.86,
+          "abs_change": 206.95,
+          "pct_change": 62.74,
           "trend": "up"
         },
         "ctr": {
-          "current": 1.31,
-          "previous": 1.39,
-          "abs_change": -0.08,
-          "pct_change": -5.76,
+          "current": 0.74,
+          "previous": 1.01,
+          "abs_change": -0.27,
+          "pct_change": -26.73,
           "trend": "down"
         },
         "views": {
-          "current": 1363,
-          "previous": 625,
-          "abs_change": 738,
-          "pct_change": 118.08,
+          "current": 395,
+          "previous": 201,
+          "abs_change": 194,
+          "pct_change": 96.52,
           "trend": "up"
         },
         "active_users": {
-          "current": 270,
-          "previous": 241,
-          "abs_change": 29,
-          "pct_change": 12.03,
-          "trend": "up"
+          "current": 53,
+          "previous": 61,
+          "abs_change": -8,
+          "pct_change": -13.11,
+          "trend": "down"
         },
         "sessions": {
-          "current": 339,
-          "previous": 271,
-          "abs_change": 68,
-          "pct_change": 25.09,
+          "current": 79,
+          "previous": 73,
+          "abs_change": 6,
+          "pct_change": 8.22,
           "trend": "up"
         }
       },
       "weekly_series": {
         "active_users": [
-          1,
-          2,
-          6,
-          7,
-          15,
-          3,
-          6,
-          13,
-          14,
-          10,
-          7,
-          9,
-          6,
-          5,
-          10,
-          11,
-          9,
-          10,
-          15,
           9,
           12,
-          7,
-          8,
           12,
-          22,
-          15,
-          15,
-          11,
-          19,
-          10
+          10,
+          6,
+          6,
+          7
         ]
       },
       "sessions_by_source": {
-        "Paid Search": 156,
-        "Direct": 123,
-        "Unassigned": 23,
-        "Organic Search": 19,
-        "Referral": 15,
-        "Cross-network": 2,
-        "Organic Social": 1
+        "Direct": 36,
+        "Paid Search": 17,
+        "Unassigned": 13,
+        "Organic Search": 6,
+        "AI Assistant": 3,
+        "Referral": 3,
+        "Cross-network": 1
       },
       "device_breakdown": {
-        "desktop": 57.6,
-        "mobile": 42.4
+        "desktop": 83.5,
+        "mobile": 15.2,
+        "tablet": 1.3
       },
       "insights": [
         {
@@ -1219,110 +880,473 @@
       ],
       "daily_series": [
         {
-          "date": "20260912",
-          "activeUsers": 1,
-          "sessions": 2
+          "date": "20261026",
+          "activeUsers": 9,
+          "sessions": 12
         },
         {
-          "date": "20260913",
-          "activeUsers": 2,
-          "sessions": 3
+          "date": "20261027",
+          "activeUsers": 12,
+          "sessions": 20
         },
         {
-          "date": "20260914",
-          "activeUsers": 6,
-          "sessions": 6
-        },
-        {
-          "date": "20260915",
-          "activeUsers": 7,
-          "sessions": 7
-        },
-        {
-          "date": "20260916",
-          "activeUsers": 15,
-          "sessions": 15
-        },
-        {
-          "date": "20260917",
-          "activeUsers": 3,
-          "sessions": 3
-        },
-        {
-          "date": "20260918",
-          "activeUsers": 6,
-          "sessions": 6
-        },
-        {
-          "date": "20260919",
-          "activeUsers": 13,
-          "sessions": 13
-        },
-        {
-          "date": "20260920",
-          "activeUsers": 14,
+          "date": "20261028",
+          "activeUsers": 12,
           "sessions": 16
         },
         {
-          "date": "20260921",
+          "date": "20261029",
           "activeUsers": 10,
-          "sessions": 10
+          "sessions": 13
         },
         {
-          "date": "20260922",
-          "activeUsers": 7,
-          "sessions": 10
-        },
-        {
-          "date": "20260923",
-          "activeUsers": 9,
-          "sessions": 9
-        },
-        {
-          "date": "20260924",
+          "date": "20261030",
           "activeUsers": 6,
           "sessions": 6
         },
         {
-          "date": "20260925",
-          "activeUsers": 5,
-          "sessions": 7
+          "date": "20261031",
+          "activeUsers": 6,
+          "sessions": 6
         },
         {
-          "date": "20260926",
+          "date": "20261101",
+          "activeUsers": 7,
+          "sessions": 7
+        }
+      ],
+      "course_performance": [
+        {
+          "name": "Marketing Digital",
+          "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
+          "views": 19,
+          "active_users": 7
+        },
+        {
+          "name": "Excel Inicial",
+          "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
+          "views": 19,
+          "active_users": 5
+        },
+        {
+          "name": "Excel Avanzado",
+          "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
+          "views": 10,
+          "active_users": 1
+        },
+        {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 5,
+          "active_users": 1
+        },
+        {
+          "name": "E-commerce",
+          "path": "/challenge-page/venta-online-para-pymes",
+          "views": 5,
+          "active_users": 1
+        },
+        {
+          "name": "Eficiencia en costos",
+          "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
+          "views": 4,
+          "active_users": 1
+        },
+        {
+          "name": "Liderazgo",
+          "path": "/challenge-page/liderazgo-y-comunicacion",
+          "views": 3,
+          "active_users": 1
+        }
+      ],
+      "period": {
+        "from": "2026-10-26",
+        "to": "2026-11-01"
+      },
+      "consultations": {
+        "total": 0,
+        "free_trial": 0,
+        "subscription": 0,
+        "without_email": 0
+      },
+      "data_quality": {
+        "total_records": 70,
+        "valid_business_records": 9,
+        "excluded_tests": 60,
+        "review_pending": 0,
+        "review_cases": 0,
+        "review_items": [],
+        "unmapped_courses": 1,
+        "missing_program_id": 1,
+        "missing_journey_id": 3,
+        "invalid_timestamp": 1,
+        "confirmed_subscriptions": 0,
+        "confirmed_missing_payment_date": 0,
+        "confirmed_invalid_payment_date": 0,
+        "by_type": {
+          "free_trial": 45,
+          "subscription": 25
+        }
+      }
+    },
+    "2026-10-19:2026-11-01": {
+      "kpis": {
+        "impressions": {
+          "current": 5772,
+          "previous": 7788,
+          "abs_change": -2016,
+          "pct_change": -25.89,
+          "trend": "down"
+        },
+        "clicks": {
+          "current": 52,
+          "previous": 84,
+          "abs_change": -32,
+          "pct_change": -38.1,
+          "trend": "down"
+        },
+        "cost": {
+          "current": 20670.91,
+          "previous": 22379.84,
+          "abs_change": -1708.93,
+          "pct_change": -7.64,
+          "trend": "down"
+        },
+        "avg_cpc": {
+          "current": 397.52,
+          "previous": 266.43,
+          "abs_change": 131.09,
+          "pct_change": 49.2,
+          "trend": "up"
+        },
+        "ctr": {
+          "current": 0.9,
+          "previous": 1.08,
+          "abs_change": -0.18,
+          "pct_change": -16.67,
+          "trend": "down"
+        },
+        "views": {
+          "current": 596,
+          "previous": 517,
+          "abs_change": 79,
+          "pct_change": 15.28,
+          "trend": "up"
+        },
+        "active_users": {
+          "current": 110,
+          "previous": 136,
+          "abs_change": -26,
+          "pct_change": -19.12,
+          "trend": "down"
+        },
+        "sessions": {
+          "current": 152,
+          "previous": 189,
+          "abs_change": -37,
+          "pct_change": -19.58,
+          "trend": "down"
+        }
+      },
+      "weekly_series": {
+        "active_users": [
+          10,
+          1,
+          9,
+          11,
+          7,
+          20,
+          6,
+          9,
+          12,
+          12,
+          10,
+          6,
+          6,
+          7
+        ]
+      },
+      "sessions_by_source": {
+        "Direct": 63,
+        "Paid Search": 52,
+        "Unassigned": 20,
+        "Organic Search": 10,
+        "AI Assistant": 3,
+        "Referral": 3,
+        "Cross-network": 1
+      },
+      "device_breakdown": {
+        "desktop": 75.0,
+        "mobile": 24.3,
+        "tablet": 0.7
+      },
+      "insights": [
+        {
+          "text": "El CTR bajó mientras que el CPC aumentó.",
+          "kind": "alert"
+        }
+      ],
+      "daily_series": [
+        {
+          "date": "20261019",
           "activeUsers": 10,
           "sessions": 10
         },
         {
-          "date": "20260927",
+          "date": "20261020",
+          "activeUsers": 1,
+          "sessions": 1
+        },
+        {
+          "date": "20261021",
+          "activeUsers": 9,
+          "sessions": 15
+        },
+        {
+          "date": "20261022",
           "activeUsers": 11,
           "sessions": 11
         },
         {
-          "date": "20260928",
-          "activeUsers": 9,
-          "sessions": 9
+          "date": "20261023",
+          "activeUsers": 7,
+          "sessions": 10
         },
         {
-          "date": "20260929",
-          "activeUsers": 10,
-          "sessions": 12
-        },
-        {
-          "date": "20260930",
-          "activeUsers": 15,
+          "date": "20261024",
+          "activeUsers": 20,
           "sessions": 20
         },
         {
-          "date": "20261001",
-          "activeUsers": 9,
-          "sessions": 9
+          "date": "20261025",
+          "activeUsers": 6,
+          "sessions": 6
         },
         {
-          "date": "20261002",
-          "activeUsers": 12,
+          "date": "20261026",
+          "activeUsers": 9,
           "sessions": 12
         },
+        {
+          "date": "20261027",
+          "activeUsers": 12,
+          "sessions": 20
+        },
+        {
+          "date": "20261028",
+          "activeUsers": 12,
+          "sessions": 16
+        },
+        {
+          "date": "20261029",
+          "activeUsers": 10,
+          "sessions": 13
+        },
+        {
+          "date": "20261030",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261031",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261101",
+          "activeUsers": 7,
+          "sessions": 7
+        }
+      ],
+      "course_performance": [
+        {
+          "name": "Marketing Digital",
+          "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
+          "views": 29,
+          "active_users": 16
+        },
+        {
+          "name": "Excel Inicial",
+          "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
+          "views": 37,
+          "active_users": 11
+        },
+        {
+          "name": "Excel Avanzado",
+          "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
+          "views": 14,
+          "active_users": 5
+        },
+        {
+          "name": "Power BI",
+          "path": "/challenge-page/power-bi-en-tu-negocio",
+          "views": 7,
+          "active_users": 3
+        },
+        {
+          "name": "E-commerce",
+          "path": "/challenge-page/venta-online-para-pymes",
+          "views": 6,
+          "active_users": 2
+        },
+        {
+          "name": "Eficiencia en costos",
+          "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
+          "views": 4,
+          "active_users": 1
+        },
+        {
+          "name": "Liderazgo",
+          "path": "/challenge-page/liderazgo-y-comunicacion",
+          "views": 3,
+          "active_users": 1
+        }
+      ],
+      "period": {
+        "from": "2026-10-19",
+        "to": "2026-11-01"
+      },
+      "consultations": {
+        "total": 1,
+        "free_trial": 1,
+        "subscription": 0,
+        "without_email": 0
+      },
+      "data_quality": {
+        "total_records": 70,
+        "valid_business_records": 9,
+        "excluded_tests": 60,
+        "review_pending": 0,
+        "review_cases": 0,
+        "review_items": [],
+        "unmapped_courses": 1,
+        "missing_program_id": 1,
+        "missing_journey_id": 3,
+        "invalid_timestamp": 1,
+        "confirmed_subscriptions": 0,
+        "confirmed_missing_payment_date": 0,
+        "confirmed_invalid_payment_date": 0,
+        "by_type": {
+          "free_trial": 45,
+          "subscription": 25
+        }
+      }
+    },
+    "2026-10-03:2026-11-01": {
+      "kpis": {
+        "impressions": {
+          "current": 14243,
+          "previous": 8388,
+          "abs_change": 5855,
+          "pct_change": 69.8,
+          "trend": "up"
+        },
+        "clicks": {
+          "current": 144,
+          "previous": 150,
+          "abs_change": -6,
+          "pct_change": -4.0,
+          "trend": "down"
+        },
+        "cost": {
+          "current": 44191.95,
+          "previous": 40820.34,
+          "abs_change": 3371.61,
+          "pct_change": 8.26,
+          "trend": "up"
+        },
+        "avg_cpc": {
+          "current": 306.89,
+          "previous": 272.14,
+          "abs_change": 34.75,
+          "pct_change": 12.77,
+          "trend": "up"
+        },
+        "ctr": {
+          "current": 1.01,
+          "previous": 1.79,
+          "abs_change": -0.78,
+          "pct_change": -43.58,
+          "trend": "down"
+        },
+        "views": {
+          "current": 1165,
+          "previous": 1019,
+          "abs_change": 146,
+          "pct_change": 14.33,
+          "trend": "up"
+        },
+        "active_users": {
+          "current": 256,
+          "previous": 222,
+          "abs_change": 34,
+          "pct_change": 15.32,
+          "trend": "up"
+        },
+        "sessions": {
+          "current": 356,
+          "previous": 260,
+          "abs_change": 96,
+          "pct_change": 36.92,
+          "trend": "up"
+        }
+      },
+      "weekly_series": {
+        "active_users": [
+          7,
+          8,
+          12,
+          22,
+          15,
+          15,
+          11,
+          19,
+          10,
+          6,
+          11,
+          10,
+          3,
+          4,
+          4,
+          8,
+          10,
+          1,
+          9,
+          11,
+          7,
+          20,
+          6,
+          9,
+          12,
+          12,
+          10,
+          6,
+          6,
+          7
+        ]
+      },
+      "sessions_by_source": {
+        "Paid Search": 145,
+        "Direct": 132,
+        "Organic Search": 29,
+        "Unassigned": 26,
+        "Referral": 19,
+        "AI Assistant": 3,
+        "Cross-network": 1,
+        "Organic Social": 1
+      },
+      "device_breakdown": {
+        "desktop": 66.7,
+        "mobile": 33.1,
+        "tablet": 0.3
+      },
+      "insights": [
+        {
+          "text": "El CTR bajó mientras que el CPC aumentó.",
+          "kind": "alert"
+        }
+      ],
+      "daily_series": [
         {
           "date": "20261003",
           "activeUsers": 7,
@@ -1367,61 +1391,185 @@
           "date": "20261011",
           "activeUsers": 10,
           "sessions": 10
+        },
+        {
+          "date": "20261012",
+          "activeUsers": 6,
+          "sessions": 7
+        },
+        {
+          "date": "20261013",
+          "activeUsers": 11,
+          "sessions": 15
+        },
+        {
+          "date": "20261014",
+          "activeUsers": 10,
+          "sessions": 10
+        },
+        {
+          "date": "20261015",
+          "activeUsers": 3,
+          "sessions": 3
+        },
+        {
+          "date": "20261016",
+          "activeUsers": 4,
+          "sessions": 4
+        },
+        {
+          "date": "20261017",
+          "activeUsers": 4,
+          "sessions": 5
+        },
+        {
+          "date": "20261018",
+          "activeUsers": 8,
+          "sessions": 15
+        },
+        {
+          "date": "20261019",
+          "activeUsers": 10,
+          "sessions": 10
+        },
+        {
+          "date": "20261020",
+          "activeUsers": 1,
+          "sessions": 1
+        },
+        {
+          "date": "20261021",
+          "activeUsers": 9,
+          "sessions": 15
+        },
+        {
+          "date": "20261022",
+          "activeUsers": 11,
+          "sessions": 11
+        },
+        {
+          "date": "20261023",
+          "activeUsers": 7,
+          "sessions": 10
+        },
+        {
+          "date": "20261024",
+          "activeUsers": 20,
+          "sessions": 20
+        },
+        {
+          "date": "20261025",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261026",
+          "activeUsers": 9,
+          "sessions": 12
+        },
+        {
+          "date": "20261027",
+          "activeUsers": 12,
+          "sessions": 20
+        },
+        {
+          "date": "20261028",
+          "activeUsers": 12,
+          "sessions": 16
+        },
+        {
+          "date": "20261029",
+          "activeUsers": 10,
+          "sessions": 13
+        },
+        {
+          "date": "20261030",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261031",
+          "activeUsers": 6,
+          "sessions": 6
+        },
+        {
+          "date": "20261101",
+          "activeUsers": 7,
+          "sessions": 7
         }
       ],
       "course_performance": [
         {
           "name": "Marketing Digital",
           "path": "/challenge-page/comunicacion-y-marketing-digital-para-pequeños-negocios",
-          "views": 191,
-          "active_users": 84
+          "views": 100,
+          "active_users": 59
         },
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 66,
-          "active_users": 18
+          "views": 73,
+          "active_users": 33
         },
         {
           "name": "Excel Avanzado",
           "path": "/challenge-page/análisis-de-datos-pymes-y-negocios",
-          "views": 28,
-          "active_users": 3
+          "views": 20,
+          "active_users": 7
         },
         {
           "name": "Power BI",
           "path": "/challenge-page/power-bi-en-tu-negocio",
-          "views": 8,
-          "active_users": 2
+          "views": 10,
+          "active_users": 5
         },
         {
           "name": "E-commerce",
           "path": "/challenge-page/venta-online-para-pymes",
-          "views": 17,
-          "active_users": 3
+          "views": 8,
+          "active_users": 4
         },
         {
           "name": "Eficiencia en costos",
           "path": "/challenge-page/reduccion-de-costos-y-eficiencia",
-          "views": 9,
+          "views": 5,
           "active_users": 2
         },
         {
           "name": "Liderazgo",
           "path": "/challenge-page/liderazgo-y-comunicacion",
-          "views": 12,
-          "active_users": 3
+          "views": 6,
+          "active_users": 4
         }
       ],
       "period": {
-        "from": "2026-09-12",
-        "to": "2026-10-11"
+        "from": "2026-10-03",
+        "to": "2026-11-01"
       },
       "consultations": {
         "total": 4,
-        "free_trial": 3,
-        "subscription": 1,
+        "free_trial": 4,
+        "subscription": 0,
         "without_email": 0
+      },
+      "data_quality": {
+        "total_records": 70,
+        "valid_business_records": 9,
+        "excluded_tests": 60,
+        "review_pending": 0,
+        "review_cases": 0,
+        "review_items": [],
+        "unmapped_courses": 1,
+        "missing_program_id": 1,
+        "missing_journey_id": 3,
+        "invalid_timestamp": 1,
+        "confirmed_subscriptions": 0,
+        "confirmed_missing_payment_date": 0,
+        "confirmed_invalid_payment_date": 0,
+        "by_type": {
+          "free_trial": 45,
+          "subscription": 25
+        }
       }
     }
   }
