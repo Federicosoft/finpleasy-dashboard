@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T02:23:01.744933+00:00",
+  "generated_at": "2026-11-09T02:48:42.152642+00:00",
   "current_period": "2026-11-02:2026-11-08",
   "presets": {
     "7": {
       "kpis": {
         "impressions": {
-          "current": 4398,
+          "current": 4407,
           "previous": 2312,
-          "abs_change": 2086,
-          "pct_change": 90.22,
+          "abs_change": 2095,
+          "pct_change": 90.61,
           "trend": "up"
         },
         "clicks": {
@@ -40,10 +40,10 @@
           "trend": "up"
         },
         "views": {
-          "current": 254,
+          "current": 260,
           "previous": 395,
-          "abs_change": -141,
-          "pct_change": -35.7,
+          "abs_change": -135,
+          "pct_change": -34.18,
           "trend": "down"
         },
         "active_users": {
@@ -54,10 +54,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 104,
+          "current": 105,
           "previous": 79,
-          "abs_change": 25,
-          "pct_change": 31.65,
+          "abs_change": 26,
+          "pct_change": 32.91,
           "trend": "up"
         }
       },
@@ -69,7 +69,7 @@
           16,
           8,
           24,
-          9
+          10
         ]
       },
       "sessions_by_source": {
@@ -78,12 +78,12 @@
         "Organic Search": 11,
         "Referral": 10,
         "Unassigned": 3,
-        "Cross-network": 2,
-        "AI Assistant": 1
+        "AI Assistant": 2,
+        "Cross-network": 2
       },
       "device_breakdown": {
-        "desktop": 68.9,
-        "mobile": 31.1
+        "desktop": 69.2,
+        "mobile": 30.8
       },
       "insights": [
         {
@@ -124,8 +124,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 9,
-          "sessions": 9
+          "activeUsers": 10,
+          "sessions": 10
         }
       ],
       "course_performance": [
@@ -180,7 +180,64 @@
         "total": 3,
         "free_trial": 2,
         "subscription": 1,
-        "without_email": 0
+        "without_email": 0,
+        "unmapped_records": 0,
+        "period": {
+          "from": "2026-11-02",
+          "to": "2026-11-08"
+        },
+        "generated_at": "2026-11-09T02:48:42.152642+00:00",
+        "by_course": [
+          {
+            "course_id": "excel-inicial",
+            "course_name": "Excel Inicial",
+            "free_trial": 1,
+            "subscription": 0,
+            "total": 1
+          },
+          {
+            "course_id": "excel-avanzado",
+            "course_name": "Excel Avanzado",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "marketing",
+            "course_name": "Marketing Digital",
+            "free_trial": 1,
+            "subscription": 1,
+            "total": 2
+          },
+          {
+            "course_id": "power-bi",
+            "course_name": "Power BI",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "ecommerce",
+            "course_name": "E-commerce",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "costos",
+            "course_name": "Eficiencia en costos",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "liderazgo",
+            "course_name": "Liderazgo",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          }
+        ]
       },
       "data_quality": {
         "total_records": 71,
@@ -214,10 +271,10 @@
     "14": {
       "kpis": {
         "impressions": {
-          "current": 6710,
+          "current": 6719,
           "previous": 5763,
-          "abs_change": 947,
-          "pct_change": 16.43,
+          "abs_change": 956,
+          "pct_change": 16.59,
           "trend": "up"
         },
         "clicks": {
@@ -249,10 +306,10 @@
           "trend": "down"
         },
         "views": {
-          "current": 649,
+          "current": 655,
           "previous": 350,
-          "abs_change": 299,
-          "pct_change": 85.43,
+          "abs_change": 305,
+          "pct_change": 87.14,
           "trend": "up"
         },
         "active_users": {
@@ -263,10 +320,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 183,
+          "current": 184,
           "previous": 132,
-          "abs_change": 51,
-          "pct_change": 38.64,
+          "abs_change": 52,
+          "pct_change": 39.39,
           "trend": "up"
         }
       },
@@ -285,7 +342,7 @@
           16,
           8,
           24,
-          9
+          10
         ]
       },
       "sessions_by_source": {
@@ -294,12 +351,12 @@
         "Organic Search": 17,
         "Unassigned": 16,
         "Referral": 13,
-        "AI Assistant": 4,
+        "AI Assistant": 5,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 75.3,
-        "mobile": 24.2,
+        "desktop": 75.4,
+        "mobile": 24.0,
         "tablet": 0.5
       },
       "insights": [
@@ -376,8 +433,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 9,
-          "sessions": 9
+          "activeUsers": 10,
+          "sessions": 10
         }
       ],
       "course_performance": [
@@ -432,7 +489,64 @@
         "total": 3,
         "free_trial": 2,
         "subscription": 1,
-        "without_email": 0
+        "without_email": 0,
+        "unmapped_records": 0,
+        "period": {
+          "from": "2026-10-26",
+          "to": "2026-11-08"
+        },
+        "generated_at": "2026-11-09T02:48:42.152642+00:00",
+        "by_course": [
+          {
+            "course_id": "excel-inicial",
+            "course_name": "Excel Inicial",
+            "free_trial": 1,
+            "subscription": 0,
+            "total": 1
+          },
+          {
+            "course_id": "excel-avanzado",
+            "course_name": "Excel Avanzado",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "marketing",
+            "course_name": "Marketing Digital",
+            "free_trial": 1,
+            "subscription": 1,
+            "total": 2
+          },
+          {
+            "course_id": "power-bi",
+            "course_name": "Power BI",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "ecommerce",
+            "course_name": "E-commerce",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "costos",
+            "course_name": "Eficiencia en costos",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "liderazgo",
+            "course_name": "Liderazgo",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          }
+        ]
       },
       "data_quality": {
         "total_records": 71,
@@ -466,10 +580,10 @@
     "30": {
       "kpis": {
         "impressions": {
-          "current": 14121,
+          "current": 14130,
           "previous": 11194,
-          "abs_change": 2927,
-          "pct_change": 26.15,
+          "abs_change": 2936,
+          "pct_change": 26.23,
           "trend": "up"
         },
         "clicks": {
@@ -501,10 +615,10 @@
           "trend": "down"
         },
         "views": {
-          "current": 1055,
+          "current": 1061,
           "previous": 1330,
-          "abs_change": -275,
-          "pct_change": -20.68,
+          "abs_change": -269,
+          "pct_change": -20.23,
           "trend": "down"
         },
         "active_users": {
@@ -515,10 +629,10 @@
           "trend": "down"
         },
         "sessions": {
-          "current": 349,
+          "current": 350,
           "previous": 327,
-          "abs_change": 22,
-          "pct_change": 6.73,
+          "abs_change": 23,
+          "pct_change": 7.03,
           "trend": "up"
         }
       },
@@ -553,7 +667,7 @@
           16,
           8,
           24,
-          9
+          10
         ]
       },
       "sessions_by_source": {
@@ -562,12 +676,12 @@
         "Unassigned": 29,
         "Organic Search": 21,
         "Referral": 21,
-        "AI Assistant": 4,
+        "AI Assistant": 5,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 70.7,
-        "mobile": 29.0,
+        "desktop": 70.8,
+        "mobile": 28.9,
         "tablet": 0.3
       },
       "insights": [
@@ -724,8 +838,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 9,
-          "sessions": 9
+          "activeUsers": 10,
+          "sessions": 10
         }
       ],
       "course_performance": [
@@ -780,7 +894,64 @@
         "total": 4,
         "free_trial": 3,
         "subscription": 1,
-        "without_email": 0
+        "without_email": 0,
+        "unmapped_records": 0,
+        "period": {
+          "from": "2026-10-10",
+          "to": "2026-11-08"
+        },
+        "generated_at": "2026-11-09T02:48:42.152642+00:00",
+        "by_course": [
+          {
+            "course_id": "excel-inicial",
+            "course_name": "Excel Inicial",
+            "free_trial": 2,
+            "subscription": 0,
+            "total": 2
+          },
+          {
+            "course_id": "excel-avanzado",
+            "course_name": "Excel Avanzado",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "marketing",
+            "course_name": "Marketing Digital",
+            "free_trial": 1,
+            "subscription": 1,
+            "total": 2
+          },
+          {
+            "course_id": "power-bi",
+            "course_name": "Power BI",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "ecommerce",
+            "course_name": "E-commerce",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "costos",
+            "course_name": "Eficiencia en costos",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "liderazgo",
+            "course_name": "Liderazgo",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          }
+        ]
       },
       "data_quality": {
         "total_records": 71,
@@ -816,10 +987,10 @@
     "2026-11-02:2026-11-08": {
       "kpis": {
         "impressions": {
-          "current": 4398,
+          "current": 4407,
           "previous": 2312,
-          "abs_change": 2086,
-          "pct_change": 90.22,
+          "abs_change": 2095,
+          "pct_change": 90.61,
           "trend": "up"
         },
         "clicks": {
@@ -851,10 +1022,10 @@
           "trend": "up"
         },
         "views": {
-          "current": 254,
+          "current": 260,
           "previous": 395,
-          "abs_change": -141,
-          "pct_change": -35.7,
+          "abs_change": -135,
+          "pct_change": -34.18,
           "trend": "down"
         },
         "active_users": {
@@ -865,10 +1036,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 104,
+          "current": 105,
           "previous": 79,
-          "abs_change": 25,
-          "pct_change": 31.65,
+          "abs_change": 26,
+          "pct_change": 32.91,
           "trend": "up"
         }
       },
@@ -880,7 +1051,7 @@
           16,
           8,
           24,
-          9
+          10
         ]
       },
       "sessions_by_source": {
@@ -889,12 +1060,12 @@
         "Organic Search": 11,
         "Referral": 10,
         "Unassigned": 3,
-        "Cross-network": 2,
-        "AI Assistant": 1
+        "AI Assistant": 2,
+        "Cross-network": 2
       },
       "device_breakdown": {
-        "desktop": 68.9,
-        "mobile": 31.1
+        "desktop": 69.2,
+        "mobile": 30.8
       },
       "insights": [
         {
@@ -935,8 +1106,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 9,
-          "sessions": 9
+          "activeUsers": 10,
+          "sessions": 10
         }
       ],
       "course_performance": [
@@ -991,7 +1162,64 @@
         "total": 3,
         "free_trial": 2,
         "subscription": 1,
-        "without_email": 0
+        "without_email": 0,
+        "unmapped_records": 0,
+        "period": {
+          "from": "2026-11-02",
+          "to": "2026-11-08"
+        },
+        "generated_at": "2026-11-09T02:48:42.152642+00:00",
+        "by_course": [
+          {
+            "course_id": "excel-inicial",
+            "course_name": "Excel Inicial",
+            "free_trial": 1,
+            "subscription": 0,
+            "total": 1
+          },
+          {
+            "course_id": "excel-avanzado",
+            "course_name": "Excel Avanzado",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "marketing",
+            "course_name": "Marketing Digital",
+            "free_trial": 1,
+            "subscription": 1,
+            "total": 2
+          },
+          {
+            "course_id": "power-bi",
+            "course_name": "Power BI",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "ecommerce",
+            "course_name": "E-commerce",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "costos",
+            "course_name": "Eficiencia en costos",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "liderazgo",
+            "course_name": "Liderazgo",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          }
+        ]
       },
       "data_quality": {
         "total_records": 71,
@@ -1025,10 +1253,10 @@
     "2026-10-26:2026-11-08": {
       "kpis": {
         "impressions": {
-          "current": 6710,
+          "current": 6719,
           "previous": 5763,
-          "abs_change": 947,
-          "pct_change": 16.43,
+          "abs_change": 956,
+          "pct_change": 16.59,
           "trend": "up"
         },
         "clicks": {
@@ -1060,10 +1288,10 @@
           "trend": "down"
         },
         "views": {
-          "current": 649,
+          "current": 655,
           "previous": 350,
-          "abs_change": 299,
-          "pct_change": 85.43,
+          "abs_change": 305,
+          "pct_change": 87.14,
           "trend": "up"
         },
         "active_users": {
@@ -1074,10 +1302,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 183,
+          "current": 184,
           "previous": 132,
-          "abs_change": 51,
-          "pct_change": 38.64,
+          "abs_change": 52,
+          "pct_change": 39.39,
           "trend": "up"
         }
       },
@@ -1096,7 +1324,7 @@
           16,
           8,
           24,
-          9
+          10
         ]
       },
       "sessions_by_source": {
@@ -1105,12 +1333,12 @@
         "Organic Search": 17,
         "Unassigned": 16,
         "Referral": 13,
-        "AI Assistant": 4,
+        "AI Assistant": 5,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 75.3,
-        "mobile": 24.2,
+        "desktop": 75.4,
+        "mobile": 24.0,
         "tablet": 0.5
       },
       "insights": [
@@ -1187,8 +1415,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 9,
-          "sessions": 9
+          "activeUsers": 10,
+          "sessions": 10
         }
       ],
       "course_performance": [
@@ -1243,7 +1471,64 @@
         "total": 3,
         "free_trial": 2,
         "subscription": 1,
-        "without_email": 0
+        "without_email": 0,
+        "unmapped_records": 0,
+        "period": {
+          "from": "2026-10-26",
+          "to": "2026-11-08"
+        },
+        "generated_at": "2026-11-09T02:48:42.152642+00:00",
+        "by_course": [
+          {
+            "course_id": "excel-inicial",
+            "course_name": "Excel Inicial",
+            "free_trial": 1,
+            "subscription": 0,
+            "total": 1
+          },
+          {
+            "course_id": "excel-avanzado",
+            "course_name": "Excel Avanzado",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "marketing",
+            "course_name": "Marketing Digital",
+            "free_trial": 1,
+            "subscription": 1,
+            "total": 2
+          },
+          {
+            "course_id": "power-bi",
+            "course_name": "Power BI",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "ecommerce",
+            "course_name": "E-commerce",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "costos",
+            "course_name": "Eficiencia en costos",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "liderazgo",
+            "course_name": "Liderazgo",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          }
+        ]
       },
       "data_quality": {
         "total_records": 71,
@@ -1277,10 +1562,10 @@
     "2026-10-10:2026-11-08": {
       "kpis": {
         "impressions": {
-          "current": 14121,
+          "current": 14130,
           "previous": 11194,
-          "abs_change": 2927,
-          "pct_change": 26.15,
+          "abs_change": 2936,
+          "pct_change": 26.23,
           "trend": "up"
         },
         "clicks": {
@@ -1312,10 +1597,10 @@
           "trend": "down"
         },
         "views": {
-          "current": 1055,
+          "current": 1061,
           "previous": 1330,
-          "abs_change": -275,
-          "pct_change": -20.68,
+          "abs_change": -269,
+          "pct_change": -20.23,
           "trend": "down"
         },
         "active_users": {
@@ -1326,10 +1611,10 @@
           "trend": "down"
         },
         "sessions": {
-          "current": 349,
+          "current": 350,
           "previous": 327,
-          "abs_change": 22,
-          "pct_change": 6.73,
+          "abs_change": 23,
+          "pct_change": 7.03,
           "trend": "up"
         }
       },
@@ -1364,7 +1649,7 @@
           16,
           8,
           24,
-          9
+          10
         ]
       },
       "sessions_by_source": {
@@ -1373,12 +1658,12 @@
         "Unassigned": 29,
         "Organic Search": 21,
         "Referral": 21,
-        "AI Assistant": 4,
+        "AI Assistant": 5,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 70.7,
-        "mobile": 29.0,
+        "desktop": 70.8,
+        "mobile": 28.9,
         "tablet": 0.3
       },
       "insights": [
@@ -1535,8 +1820,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 9,
-          "sessions": 9
+          "activeUsers": 10,
+          "sessions": 10
         }
       ],
       "course_performance": [
@@ -1591,7 +1876,64 @@
         "total": 4,
         "free_trial": 3,
         "subscription": 1,
-        "without_email": 0
+        "without_email": 0,
+        "unmapped_records": 0,
+        "period": {
+          "from": "2026-10-10",
+          "to": "2026-11-08"
+        },
+        "generated_at": "2026-11-09T02:48:42.152642+00:00",
+        "by_course": [
+          {
+            "course_id": "excel-inicial",
+            "course_name": "Excel Inicial",
+            "free_trial": 2,
+            "subscription": 0,
+            "total": 2
+          },
+          {
+            "course_id": "excel-avanzado",
+            "course_name": "Excel Avanzado",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "marketing",
+            "course_name": "Marketing Digital",
+            "free_trial": 1,
+            "subscription": 1,
+            "total": 2
+          },
+          {
+            "course_id": "power-bi",
+            "course_name": "Power BI",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "ecommerce",
+            "course_name": "E-commerce",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "costos",
+            "course_name": "Eficiencia en costos",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          },
+          {
+            "course_id": "liderazgo",
+            "course_name": "Liderazgo",
+            "free_trial": 0,
+            "subscription": 0,
+            "total": 0
+          }
+        ]
       },
       "data_quality": {
         "total_records": 71,
