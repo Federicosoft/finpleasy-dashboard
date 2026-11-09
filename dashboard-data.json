@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T00:02:31.111275+00:00",
+  "generated_at": "2026-11-09T02:23:01.744933+00:00",
   "current_period": "2026-11-02:2026-11-08",
   "presets": {
     "7": {
       "kpis": {
         "impressions": {
-          "current": 4375,
+          "current": 4398,
           "previous": 2312,
-          "abs_change": 2063,
-          "pct_change": 89.23,
+          "abs_change": 2086,
+          "pct_change": 90.22,
           "trend": "up"
         },
         "clicks": {
@@ -33,17 +33,17 @@
           "trend": "down"
         },
         "ctr": {
-          "current": 0.94,
+          "current": 0.93,
           "previous": 0.74,
-          "abs_change": 0.2,
-          "pct_change": 27.03,
+          "abs_change": 0.19,
+          "pct_change": 25.68,
           "trend": "up"
         },
         "views": {
-          "current": 249,
+          "current": 254,
           "previous": 395,
-          "abs_change": -146,
-          "pct_change": -36.96,
+          "abs_change": -141,
+          "pct_change": -35.7,
           "trend": "down"
         },
         "active_users": {
@@ -54,10 +54,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 102,
+          "current": 104,
           "previous": 79,
-          "abs_change": 23,
-          "pct_change": 29.11,
+          "abs_change": 25,
+          "pct_change": 31.65,
           "trend": "up"
         }
       },
@@ -69,21 +69,21 @@
           16,
           8,
           24,
-          8
+          9
         ]
       },
       "sessions_by_source": {
         "Direct": 41,
         "Paid Search": 36,
-        "Organic Search": 10,
+        "Organic Search": 11,
         "Referral": 10,
+        "Unassigned": 3,
         "Cross-network": 2,
-        "Unassigned": 2,
         "AI Assistant": 1
       },
       "device_breakdown": {
-        "desktop": 68.6,
-        "mobile": 31.4
+        "desktop": 68.9,
+        "mobile": 31.1
       },
       "insights": [
         {
@@ -124,8 +124,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 8,
-          "sessions": 8
+          "activeUsers": 9,
+          "sessions": 9
         }
       ],
       "course_performance": [
@@ -138,8 +138,8 @@
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 8,
-          "active_users": 7
+          "views": 9,
+          "active_users": 8
         },
         {
           "name": "Excel Avanzado",
@@ -189,10 +189,19 @@
         "review_pending": 0,
         "review_cases": 0,
         "review_items": [],
+        "invalid_records": 1,
+        "reconciliation_total": 71,
+        "reconciliation_ok": true,
+        "raw_business_records": 9,
+        "consolidated_business_records": 7,
+        "duplicates_consolidated": 2,
+        "empty_records": 1,
+        "missing_record_id": 0,
+        "missing_email": 1,
         "unmapped_courses": 1,
         "missing_program_id": 1,
         "missing_journey_id": 3,
-        "invalid_timestamp": 1,
+        "invalid_timestamp": 0,
         "confirmed_subscriptions": 0,
         "confirmed_missing_payment_date": 0,
         "confirmed_invalid_payment_date": 0,
@@ -205,10 +214,10 @@
     "14": {
       "kpis": {
         "impressions": {
-          "current": 6687,
+          "current": 6710,
           "previous": 5763,
-          "abs_change": 924,
-          "pct_change": 16.03,
+          "abs_change": 947,
+          "pct_change": 16.43,
           "trend": "up"
         },
         "clicks": {
@@ -233,17 +242,17 @@
           "trend": "up"
         },
         "ctr": {
-          "current": 0.87,
+          "current": 0.86,
           "previous": 1.02,
-          "abs_change": -0.15,
-          "pct_change": -14.71,
+          "abs_change": -0.16,
+          "pct_change": -15.69,
           "trend": "down"
         },
         "views": {
-          "current": 644,
+          "current": 649,
           "previous": 350,
-          "abs_change": 294,
-          "pct_change": 84.0,
+          "abs_change": 299,
+          "pct_change": 85.43,
           "trend": "up"
         },
         "active_users": {
@@ -254,10 +263,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 181,
+          "current": 183,
           "previous": 132,
-          "abs_change": 49,
-          "pct_change": 37.12,
+          "abs_change": 51,
+          "pct_change": 38.64,
           "trend": "up"
         }
       },
@@ -276,22 +285,22 @@
           16,
           8,
           24,
-          8
+          9
         ]
       },
       "sessions_by_source": {
         "Direct": 77,
         "Paid Search": 53,
-        "Organic Search": 16,
-        "Unassigned": 15,
+        "Organic Search": 17,
+        "Unassigned": 16,
         "Referral": 13,
         "AI Assistant": 4,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 75.1,
-        "mobile": 24.3,
-        "tablet": 0.6
+        "desktop": 75.3,
+        "mobile": 24.2,
+        "tablet": 0.5
       },
       "insights": [
         {
@@ -367,8 +376,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 8,
-          "sessions": 8
+          "activeUsers": 9,
+          "sessions": 9
         }
       ],
       "course_performance": [
@@ -381,8 +390,8 @@
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 27,
-          "active_users": 12
+          "views": 28,
+          "active_users": 13
         },
         {
           "name": "Excel Avanzado",
@@ -432,10 +441,19 @@
         "review_pending": 0,
         "review_cases": 0,
         "review_items": [],
+        "invalid_records": 1,
+        "reconciliation_total": 71,
+        "reconciliation_ok": true,
+        "raw_business_records": 9,
+        "consolidated_business_records": 7,
+        "duplicates_consolidated": 2,
+        "empty_records": 1,
+        "missing_record_id": 0,
+        "missing_email": 1,
         "unmapped_courses": 1,
         "missing_program_id": 1,
         "missing_journey_id": 3,
-        "invalid_timestamp": 1,
+        "invalid_timestamp": 0,
         "confirmed_subscriptions": 0,
         "confirmed_missing_payment_date": 0,
         "confirmed_invalid_payment_date": 0,
@@ -448,10 +466,10 @@
     "30": {
       "kpis": {
         "impressions": {
-          "current": 14098,
+          "current": 14121,
           "previous": 11194,
-          "abs_change": 2904,
-          "pct_change": 25.94,
+          "abs_change": 2927,
+          "pct_change": 26.15,
           "trend": "up"
         },
         "clicks": {
@@ -483,10 +501,10 @@
           "trend": "down"
         },
         "views": {
-          "current": 1050,
+          "current": 1055,
           "previous": 1330,
-          "abs_change": -280,
-          "pct_change": -21.05,
+          "abs_change": -275,
+          "pct_change": -20.68,
           "trend": "down"
         },
         "active_users": {
@@ -497,10 +515,10 @@
           "trend": "down"
         },
         "sessions": {
-          "current": 347,
+          "current": 349,
           "previous": 327,
-          "abs_change": 20,
-          "pct_change": 6.12,
+          "abs_change": 22,
+          "pct_change": 6.73,
           "trend": "up"
         }
       },
@@ -535,21 +553,21 @@
           16,
           8,
           24,
-          8
+          9
         ]
       },
       "sessions_by_source": {
         "Direct": 137,
         "Paid Search": 134,
-        "Unassigned": 28,
+        "Unassigned": 29,
+        "Organic Search": 21,
         "Referral": 21,
-        "Organic Search": 20,
         "AI Assistant": 4,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 70.6,
-        "mobile": 29.1,
+        "desktop": 70.7,
+        "mobile": 29.0,
         "tablet": 0.3
       },
       "insights": [
@@ -706,8 +724,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 8,
-          "sessions": 8
+          "activeUsers": 9,
+          "sessions": 9
         }
       ],
       "course_performance": [
@@ -720,7 +738,7 @@
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 61,
+          "views": 62,
           "active_users": 33
         },
         {
@@ -771,10 +789,19 @@
         "review_pending": 0,
         "review_cases": 0,
         "review_items": [],
+        "invalid_records": 1,
+        "reconciliation_total": 71,
+        "reconciliation_ok": true,
+        "raw_business_records": 9,
+        "consolidated_business_records": 7,
+        "duplicates_consolidated": 2,
+        "empty_records": 1,
+        "missing_record_id": 0,
+        "missing_email": 1,
         "unmapped_courses": 1,
         "missing_program_id": 1,
         "missing_journey_id": 3,
-        "invalid_timestamp": 1,
+        "invalid_timestamp": 0,
         "confirmed_subscriptions": 0,
         "confirmed_missing_payment_date": 0,
         "confirmed_invalid_payment_date": 0,
@@ -789,10 +816,10 @@
     "2026-11-02:2026-11-08": {
       "kpis": {
         "impressions": {
-          "current": 4375,
+          "current": 4398,
           "previous": 2312,
-          "abs_change": 2063,
-          "pct_change": 89.23,
+          "abs_change": 2086,
+          "pct_change": 90.22,
           "trend": "up"
         },
         "clicks": {
@@ -817,17 +844,17 @@
           "trend": "down"
         },
         "ctr": {
-          "current": 0.94,
+          "current": 0.93,
           "previous": 0.74,
-          "abs_change": 0.2,
-          "pct_change": 27.03,
+          "abs_change": 0.19,
+          "pct_change": 25.68,
           "trend": "up"
         },
         "views": {
-          "current": 249,
+          "current": 254,
           "previous": 395,
-          "abs_change": -146,
-          "pct_change": -36.96,
+          "abs_change": -141,
+          "pct_change": -35.7,
           "trend": "down"
         },
         "active_users": {
@@ -838,10 +865,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 102,
+          "current": 104,
           "previous": 79,
-          "abs_change": 23,
-          "pct_change": 29.11,
+          "abs_change": 25,
+          "pct_change": 31.65,
           "trend": "up"
         }
       },
@@ -853,21 +880,21 @@
           16,
           8,
           24,
-          8
+          9
         ]
       },
       "sessions_by_source": {
         "Direct": 41,
         "Paid Search": 36,
-        "Organic Search": 10,
+        "Organic Search": 11,
         "Referral": 10,
+        "Unassigned": 3,
         "Cross-network": 2,
-        "Unassigned": 2,
         "AI Assistant": 1
       },
       "device_breakdown": {
-        "desktop": 68.6,
-        "mobile": 31.4
+        "desktop": 68.9,
+        "mobile": 31.1
       },
       "insights": [
         {
@@ -908,8 +935,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 8,
-          "sessions": 8
+          "activeUsers": 9,
+          "sessions": 9
         }
       ],
       "course_performance": [
@@ -922,8 +949,8 @@
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 8,
-          "active_users": 7
+          "views": 9,
+          "active_users": 8
         },
         {
           "name": "Excel Avanzado",
@@ -973,10 +1000,19 @@
         "review_pending": 0,
         "review_cases": 0,
         "review_items": [],
+        "invalid_records": 1,
+        "reconciliation_total": 71,
+        "reconciliation_ok": true,
+        "raw_business_records": 9,
+        "consolidated_business_records": 7,
+        "duplicates_consolidated": 2,
+        "empty_records": 1,
+        "missing_record_id": 0,
+        "missing_email": 1,
         "unmapped_courses": 1,
         "missing_program_id": 1,
         "missing_journey_id": 3,
-        "invalid_timestamp": 1,
+        "invalid_timestamp": 0,
         "confirmed_subscriptions": 0,
         "confirmed_missing_payment_date": 0,
         "confirmed_invalid_payment_date": 0,
@@ -989,10 +1025,10 @@
     "2026-10-26:2026-11-08": {
       "kpis": {
         "impressions": {
-          "current": 6687,
+          "current": 6710,
           "previous": 5763,
-          "abs_change": 924,
-          "pct_change": 16.03,
+          "abs_change": 947,
+          "pct_change": 16.43,
           "trend": "up"
         },
         "clicks": {
@@ -1017,17 +1053,17 @@
           "trend": "up"
         },
         "ctr": {
-          "current": 0.87,
+          "current": 0.86,
           "previous": 1.02,
-          "abs_change": -0.15,
-          "pct_change": -14.71,
+          "abs_change": -0.16,
+          "pct_change": -15.69,
           "trend": "down"
         },
         "views": {
-          "current": 644,
+          "current": 649,
           "previous": 350,
-          "abs_change": 294,
-          "pct_change": 84.0,
+          "abs_change": 299,
+          "pct_change": 85.43,
           "trend": "up"
         },
         "active_users": {
@@ -1038,10 +1074,10 @@
           "trend": "up"
         },
         "sessions": {
-          "current": 181,
+          "current": 183,
           "previous": 132,
-          "abs_change": 49,
-          "pct_change": 37.12,
+          "abs_change": 51,
+          "pct_change": 38.64,
           "trend": "up"
         }
       },
@@ -1060,22 +1096,22 @@
           16,
           8,
           24,
-          8
+          9
         ]
       },
       "sessions_by_source": {
         "Direct": 77,
         "Paid Search": 53,
-        "Organic Search": 16,
-        "Unassigned": 15,
+        "Organic Search": 17,
+        "Unassigned": 16,
         "Referral": 13,
         "AI Assistant": 4,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 75.1,
-        "mobile": 24.3,
-        "tablet": 0.6
+        "desktop": 75.3,
+        "mobile": 24.2,
+        "tablet": 0.5
       },
       "insights": [
         {
@@ -1151,8 +1187,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 8,
-          "sessions": 8
+          "activeUsers": 9,
+          "sessions": 9
         }
       ],
       "course_performance": [
@@ -1165,8 +1201,8 @@
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 27,
-          "active_users": 12
+          "views": 28,
+          "active_users": 13
         },
         {
           "name": "Excel Avanzado",
@@ -1216,10 +1252,19 @@
         "review_pending": 0,
         "review_cases": 0,
         "review_items": [],
+        "invalid_records": 1,
+        "reconciliation_total": 71,
+        "reconciliation_ok": true,
+        "raw_business_records": 9,
+        "consolidated_business_records": 7,
+        "duplicates_consolidated": 2,
+        "empty_records": 1,
+        "missing_record_id": 0,
+        "missing_email": 1,
         "unmapped_courses": 1,
         "missing_program_id": 1,
         "missing_journey_id": 3,
-        "invalid_timestamp": 1,
+        "invalid_timestamp": 0,
         "confirmed_subscriptions": 0,
         "confirmed_missing_payment_date": 0,
         "confirmed_invalid_payment_date": 0,
@@ -1232,10 +1277,10 @@
     "2026-10-10:2026-11-08": {
       "kpis": {
         "impressions": {
-          "current": 14098,
+          "current": 14121,
           "previous": 11194,
-          "abs_change": 2904,
-          "pct_change": 25.94,
+          "abs_change": 2927,
+          "pct_change": 26.15,
           "trend": "up"
         },
         "clicks": {
@@ -1267,10 +1312,10 @@
           "trend": "down"
         },
         "views": {
-          "current": 1050,
+          "current": 1055,
           "previous": 1330,
-          "abs_change": -280,
-          "pct_change": -21.05,
+          "abs_change": -275,
+          "pct_change": -20.68,
           "trend": "down"
         },
         "active_users": {
@@ -1281,10 +1326,10 @@
           "trend": "down"
         },
         "sessions": {
-          "current": 347,
+          "current": 349,
           "previous": 327,
-          "abs_change": 20,
-          "pct_change": 6.12,
+          "abs_change": 22,
+          "pct_change": 6.73,
           "trend": "up"
         }
       },
@@ -1319,21 +1364,21 @@
           16,
           8,
           24,
-          8
+          9
         ]
       },
       "sessions_by_source": {
         "Direct": 137,
         "Paid Search": 134,
-        "Unassigned": 28,
+        "Unassigned": 29,
+        "Organic Search": 21,
         "Referral": 21,
-        "Organic Search": 20,
         "AI Assistant": 4,
         "Cross-network": 3
       },
       "device_breakdown": {
-        "desktop": 70.6,
-        "mobile": 29.1,
+        "desktop": 70.7,
+        "mobile": 29.0,
         "tablet": 0.3
       },
       "insights": [
@@ -1490,8 +1535,8 @@
         },
         {
           "date": "20261108",
-          "activeUsers": 8,
-          "sessions": 8
+          "activeUsers": 9,
+          "sessions": 9
         }
       ],
       "course_performance": [
@@ -1504,7 +1549,7 @@
         {
           "name": "Excel Inicial",
           "path": "/challenge-page/excel-inicial-para-negocios-y-emprendimientos",
-          "views": 61,
+          "views": 62,
           "active_users": 33
         },
         {
@@ -1555,10 +1600,19 @@
         "review_pending": 0,
         "review_cases": 0,
         "review_items": [],
+        "invalid_records": 1,
+        "reconciliation_total": 71,
+        "reconciliation_ok": true,
+        "raw_business_records": 9,
+        "consolidated_business_records": 7,
+        "duplicates_consolidated": 2,
+        "empty_records": 1,
+        "missing_record_id": 0,
+        "missing_email": 1,
         "unmapped_courses": 1,
         "missing_program_id": 1,
         "missing_journey_id": 3,
-        "invalid_timestamp": 1,
+        "invalid_timestamp": 0,
         "confirmed_subscriptions": 0,
         "confirmed_missing_payment_date": 0,
         "confirmed_invalid_payment_date": 0,
